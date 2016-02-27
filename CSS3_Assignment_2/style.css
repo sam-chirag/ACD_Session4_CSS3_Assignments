@@ -1,0 +1,9 @@
+
+.class{
+    background-color: grey;
+    width: 250px;
+	height:100px;
+    padding: 25px;
+    border: 25px solid blue;
+    margin: 25px;
+}
