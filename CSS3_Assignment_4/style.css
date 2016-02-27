@@ -1,0 +1,29 @@
+.box{
+	text-align:center;
+	padding:20px;
+	width:960px;
+	margin: 0 auto;
+}
+
+.box div{
+	width:200px;
+	height:150px;
+	display:inline-block;
+	margin:2px;
+	vertical-align: top;
+	line-height: 230px;
+	font-size: 20px;
+	border-radius: 16px;
+
+}
+.linear{
+	background:linear-gradient(to right,red,green);
+}
+
+.radial{
+	background:radial-gradient(circle,green,yellow,red);
+}
+
+.ellipse{
+	background:radial-gradient(ellipse,green,yellow,red);
+}
